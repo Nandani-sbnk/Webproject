@@ -1,0 +1,28 @@
+.wish{
+    height:60px;
+    background-color: #011101;
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ima{
+    background-image:url(https://th.bing.com/th/id/R.8f6adbcd0a48054016a901b0c84182a3?rik=g9aWJJ7wREi6Jg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fhappy-birthday-and-balloons.jpg&ehk=315hOnYnwDpi6Yov78SKIUxnAVTJuH2v6bVmLoNQ0g4%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    height: 500px;
+    width:1500px ;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.name{
+    height:500px;
+    background-color: #011101;
+    color:aliceblue;
+    display: flex;
+    font-size: 40px;
+    font-style: normal;
+    align-items: center;
+    justify-content: space-evenly;
+}
